@@ -2,12 +2,12 @@
 
 
   {
-    "title"    : "Disneyland: After Dark",
+    "title"    : "Renovaciones: Magic Key",
     "category" : "Noticias",
-    "tags"     : "disneyland-resort, disneyland, and disneyland-after-dark",
-    "url"      : "/noticias/2021/12/08/disneyland-after-dark/",
-    "date"     : "Dec 8, 2021",
-    "image"    : ""
+    "tags"     : "disneyland-resort, disneyland, disney-california-adventure, magic-key, and annual-pass",
+    "url"      : "/noticias/2022/08/16/renovacion-magic-key/",
+    "date"     : "Aug 16, 2022",
+    "image"    : "/assets/images/news/magic-key-624-1f0026a6c.jpg"
   },
 
 
@@ -17,7 +17,7 @@
     "tags"     : "disney-california-adventure, disneyland, genie, fastpass, and maxpass",
     "url"      : "/articulos/disney-genie/",
     "date"     : "Aug 20, 2021",
-    "image"    : ""
+    "image"    : "/assets/images/heros/disney-genie-hero-1200-d93d206a6.jpg"
   },
 
 
@@ -27,17 +27,7 @@
     "tags"     : "disneyland-resort, disney-genie, and fastpass",
     "url"      : "/noticias/2021/08/19/disney-genie/",
     "date"     : "Aug 19, 2021",
-    "image"    : ""
-  },
-
-
-  {
-    "title"    : "Renovaciones: Magic Key",
-    "category" : "Noticias",
-    "tags"     : "disneyland-resort, disneyland, disney-california-adventure, magic-key, and annual-pass",
-    "url"      : "/noticias/2021/08/16/renovacion-magic-key/",
-    "date"     : "Aug 16, 2021",
-    "image"    : ""
+    "image"    : "/assets/images/news/disney-genie-1200-c31ccd5d7.jpg"
   },
 
 
@@ -47,7 +37,7 @@
     "tags"     : "disneyland-resort, disneyland, disney-california-adventure, magic-key, and annual-pass",
     "url"      : "/noticias/2021/08/03/nuevo-magic-key-de-disney/",
     "date"     : "Aug 3, 2021",
-    "image"    : ""
+    "image"    : "/assets/images/news/magic-key-624-1f0026a6c.jpg"
   },
 
 
@@ -57,7 +47,7 @@
     "tags"     : "disneyland-resort, disneyland, disney-california-adventure, and covid-19",
     "url"      : "/noticias/2020/03/12/disney-cierra-hasta-nuevo-aviso/",
     "date"     : "Mar 12, 2020",
-    "image"    : ""
+    "image"    : "/assets/images/news/closure-1200-641a41dfa.jpg"
   },
 
 
@@ -67,7 +57,7 @@
     "tags"     : "disneyland-resort, disneyland, and disney-california-adventure",
     "url"      : "/articulos/calendario-de-remodelaciones/",
     "date"     : "Feb 24, 2020",
-    "image"    : ""
+    "image"    : "/assets/images/heros/2020-remodel-hero-1024-f597e9d6b.png"
   },
 
 
@@ -77,7 +67,7 @@
     "tags"     : "disneyland-resort, disney-california-adventure, and food-and-wine-festival",
     "url"      : "/articulos/food-and-wine-festival/",
     "date"     : "Feb 24, 2020",
-    "image"    : ""
+    "image"    : "/assets/images/heros/2020-food-and-wine-festival-hero-1080-3ec33fa2e.jpg"
   },
 
 
@@ -87,7 +77,7 @@
     "tags"     : "boletos, disney-california-adventure, disneyland, and precios",
     "url"      : "/noticias/2020/02/12/incrementan-el-precio-de-los-boletos/",
     "date"     : "Feb 12, 2020",
-    "image"    : ""
+    "image"    : "/assets/images/news/ticket-increase-1200-3c7a39ad2.jpg"
   },
 
 
@@ -97,7 +87,7 @@
     "tags"     : "disneyland-resort, estacionamiento, and tips",
     "url"      : "/articulos/tips-de-llegada/",
     "date"     : "Feb 3, 2020",
-    "image"    : ""
+    "image"    : "/assets/images/heros/parking-hero-1200-951ea4dad.jpg"
   },
 
 
@@ -107,7 +97,7 @@
     "tags"     : "disney-california-adventure, disneyland, fastpass, and maxpass",
     "url"      : "/articulos/disney-maxpass/",
     "date"     : "Jan 20, 2020",
-    "image"    : ""
+    "image"    : "/assets/images/heros/max-pass-hero-480-e762be769.jpg"
   },
 
 
@@ -117,7 +107,7 @@
     "tags"     : "disneyland, galaxys-edge, and star-wars",
     "url"      : "/noticias/2020/01/18/grupos-de-abordaje-se-agotan-en-45-segundos/",
     "date"     : "Jan 18, 2020",
-    "image"    : ""
+    "image"    : "/assets/images/news/rise-of-the-resistance-boarding-groups-479-fdd47d049.png"
   },
 
 
@@ -127,7 +117,7 @@
     "tags"     : "disneyland, galaxys-edge, and star-wars",
     "url"      : "/articulos/rise-of-the-resistance/",
     "date"     : "Jan 18, 2020",
-    "image"    : ""
+    "image"    : "/assets/images/heros/rise-of-the-resistance-hero-1200-a32d2fd2a.jpg"
   },
 
 
@@ -137,7 +127,7 @@
     "tags"     : "",
     "url"      : "/articulos/bienvenidos/",
     "date"     : "Jan 4, 2020",
-    "image"    : ""
+    "image"    : "/assets/images/heros/welcome-hero-1182-a75a2f98d.jpg"
   }
 
 ]
