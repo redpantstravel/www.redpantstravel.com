@@ -2,6 +2,16 @@
 
 
   {
+    "title"    : "Calendario de Remodelaciones 2023",
+    "category" : "Atracciones",
+    "tags"     : "disneyland-resort, disneyland, and disney-california-adventure",
+    "url"      : "/articulos/calendario-de-remodelaciones-2023/",
+    "date"     : "Dec 9, 2022",
+    "image"    : "/assets/images/heros/2020-remodel-hero-1024-f597e9d6b.png"
+  },
+
+
+  {
     "title"    : "MagicBand+: Llegará a Disneyland Resort este otoño",
     "category" : "Noticias",
     "tags"     : "disneyland-resort, disneyland, disney-california-adventure, and magic-band",
@@ -58,16 +68,6 @@
     "url"      : "/noticias/2020/03/12/disney-cierra-hasta-nuevo-aviso/",
     "date"     : "Mar 12, 2020",
     "image"    : "/assets/images/news/closure-1200-641a41dfa.jpg"
-  },
-
-
-  {
-    "title"    : "Calendario de Remodelaciones 2020",
-    "category" : "Atracciones",
-    "tags"     : "disneyland-resort, disneyland, and disney-california-adventure",
-    "url"      : "/articulos/calendario-de-remodelaciones/",
-    "date"     : "Feb 24, 2020",
-    "image"    : "/assets/images/heros/2020-remodel-hero-1024-f597e9d6b.png"
   },
 
 
